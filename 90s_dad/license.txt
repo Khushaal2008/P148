@@ -1,0 +1,11 @@
+Model Information:
+* title:	90s Dad
+* source:	https://sketchfab.com/3d-models/90s-dad-394daab5b8014a7b9805c7e9302e8beb
+* author:	PencilFluke (https://sketchfab.com/pencilfluke)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "90s Dad" (https://sketchfab.com/3d-models/90s-dad-394daab5b8014a7b9805c7e9302e8beb) by PencilFluke (https://sketchfab.com/pencilfluke) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
